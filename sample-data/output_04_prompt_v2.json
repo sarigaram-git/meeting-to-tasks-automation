@@ -1,0 +1,43 @@
+{
+  "summary": "The team aligned on preparation for the upcoming launch on 1 December, assigning tasks for the press release draft, legal review of landing page copy, product photo uploads, social media calendar, and an optional teaser video.",
+  "decisions": [
+    "The launch is set for 1 December 2026."
+  ],
+  "actions": [
+    {
+      "task": "Draft the press release",
+      "owner": "Dina",
+      "due_date": "2026-11-16",
+      "priority": "Normal",
+      "evidence": "Dina, can you have the press release draft by next Monday?"
+    },
+    {
+      "task": "Send landing page copy to legal for approval",
+      "owner": "Ben",
+      "due_date": "2026-11-13",
+      "priority": "Normal",
+      "evidence": "Can you send it to them tomorrow? Ben: Sure, tomorrow."
+    },
+    {
+      "task": "Upload the new product photos",
+      "owner": "Ben",
+      "due_date": "2026-11-30",
+      "priority": "Normal",
+      "evidence": "I'll upload the new product photos by the end of the month."
+    },
+    {
+      "task": "Create a short teaser video",
+      "owner": "Carlos",
+      "due_date": null,
+      "priority": "Low",
+      "evidence": "Carlos, a nice-to-have: if you get time, a short teaser video. No pressure."
+    },
+    {
+      "task": "Prepare the social media calendar",
+      "owner": "Carlos",
+      "due_date": "2026-11-26",
+      "priority": "Normal",
+      "evidence": "Carlos, the social media calendar in two weeks please. Carlos: Will do."
+    }
+  ]
+}

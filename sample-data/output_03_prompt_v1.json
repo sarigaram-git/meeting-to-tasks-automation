@@ -1,0 +1,29 @@
+{
+  "summary": "Warehouse Ops Standup covering task updates for aisle cycle counts, quote requests for pallet scanners, client reporting, and a decision on shift scheduling.",
+  "decisions": [
+    "Keep the current shift schedule as it is."
+  ],
+  "actions": [
+    {
+      "task": "Complete cycle count for aisle 7",
+      "owner": "Rina",
+      "due_date": "2026-11-06",
+      "priority": "Normal",
+      "evidence": "Yes, Friday works."
+    },
+    {
+      "task": "Send damaged goods report for the client",
+      "owner": "Rina",
+      "due_date": "2026-11-04",
+      "priority": "High",
+      "evidence": "the damaged goods report for the client is needed ASAP."
+    },
+    {
+      "task": "Get quotes for new pallet scanners after peak season ends",
+      "owner": "Joel",
+      "due_date": null,
+      "priority": "Normal",
+      "evidence": "get quotes for new pallet scanners, but only after peak season ends."
+    }
+  ]
+}

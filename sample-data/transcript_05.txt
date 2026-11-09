@@ -1,0 +1,16 @@
+Meeting: Client Escalation Call
+Date: 2026-11-05 (Thursday)
+Attendees: Marcus, Leila, Ivan
+
+Marcus: Ivan, can you send the client the root cause report by Friday?
+Ivan: Friday's tough, I'm travelling. Monday?
+Marcus: Fine, Monday then.
+Marcus: Leila, please set up a call with their CTO.
+Leila: Actually Ivan has the CTO's number, he should do it.
+Ivan: Okay, I'll set it up. Next week sometime.
+Marcus: Let's say Wednesday at the latest.
+Ivan: Okay, by Wednesday.
+Marcus: Leila, can you get finance the affected invoice numbers today?
+Leila: Yes, today.
+Marcus: Also, we agree we won't offer a refund above 10 percent without sign-off.
+Leila: Agreed.

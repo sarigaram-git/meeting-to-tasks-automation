@@ -1,0 +1,27 @@
+{
+  "summary": "Sara reviewed the status of vendor onboarding with the team. Mei committed to following up with legal for the pending template, Tom and Mei agreed to jointly review the vendor scorecard by the end of the month, and Sara will reserve the review meeting room.",
+  "decisions": [],
+  "actions": [
+    {
+      "task": "Email legal for the template and copy Sara",
+      "owner": "Mei",
+      "due_date": "2026-11-02",
+      "priority": "Normal",
+      "evidence": "I'll email them today and copy you."
+    },
+    {
+      "task": "Review the vendor scorecard together and send one list of changes",
+      "owner": "Tom and Mei",
+      "due_date": "2026-11-30",
+      "priority": "Normal",
+      "evidence": "please review the vendor scorecard together and send me one list of changes"
+    },
+    {
+      "task": "Book the review meeting room",
+      "owner": "Sara",
+      "due_date": "2026-11-03",
+      "priority": "Normal",
+      "evidence": "I'll book the review meeting room by tomorrow."
+    }
+  ]
+}

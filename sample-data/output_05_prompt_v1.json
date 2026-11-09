@@ -1,0 +1,29 @@
+{
+  "summary": "Marcus, Leila, and Ivan addressed action items following a client escalation, including delivering the root cause report, scheduling a call with the client's CTO, providing invoice numbers to finance, and agreeing on refund limits.",
+  "decisions": [
+    "No refund above 10 percent will be offered without sign-off."
+  ],
+  "actions": [
+    {
+      "task": "Send the root cause report to the client",
+      "owner": "Ivan",
+      "due_date": "2026-11-09",
+      "priority": "Normal",
+      "evidence": "Monday? Marcus: Fine, Monday then."
+    },
+    {
+      "task": "Set up a call with the client's CTO",
+      "owner": "Ivan",
+      "due_date": "2026-11-11",
+      "priority": "Normal",
+      "evidence": "Marcus: Let's say Wednesday at the latest. Ivan: Okay, by Wednesday."
+    },
+    {
+      "task": "Provide the affected invoice numbers to finance",
+      "owner": "Leila",
+      "due_date": "2026-11-05",
+      "priority": "Normal",
+      "evidence": "Marcus: Leila, can you get finance the affected invoice numbers today? Leila: Yes, today."
+    }
+  ]
+}

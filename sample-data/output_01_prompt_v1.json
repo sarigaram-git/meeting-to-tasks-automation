@@ -1,0 +1,36 @@
+{
+  "summary": "The team aligned on the vendor demo scheduled for Thursday, selected Dubai as the pilot city for Project Falcon, and assigned action items regarding the budget sheet, pilot plan, and client security questionnaire.",
+  "decisions": [
+    "Dubai was chosen as the pilot city, with Abu Dhabi postponed to phase two."
+  ],
+  "actions": [
+    {
+      "task": "Send the calendar invite for the vendor demo",
+      "owner": "Omar",
+      "due_date": "2026-11-09",
+      "priority": "Normal",
+      "evidence": "I'll send the calendar invite today."
+    },
+    {
+      "task": "Update the budget sheet and share it with finance",
+      "owner": "Lena",
+      "due_date": "2026-11-13",
+      "priority": "Normal",
+      "evidence": "I'll update it by Friday and share it with finance."
+    },
+    {
+      "task": "Draft the pilot plan",
+      "owner": "Daniel",
+      "due_date": "2026-11-20",
+      "priority": "Normal",
+      "evidence": "can you draft the pilot plan? End of next week is fine."
+    },
+    {
+      "task": "Complete and return the client's security questionnaire",
+      "owner": "Omar",
+      "due_date": "2026-11-10",
+      "priority": "High",
+      "evidence": "One urgent thing: the client's security questionnaire must go back tomorrow."
+    }
+  ]
+}
